@@ -1,2 +1,4 @@
 # FYP-LiveCode-Files
-Download Files for the Live Code Final Year Project
+For Live Code Instructions read Guide.doc
+The jar file is for module leaders
+The Zip folder is for students
